@@ -1,0 +1,4 @@
+* text EOL=auto
+
+.gitattributes  export-ignore
+LICENSE.txt     export-ignore
